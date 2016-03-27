@@ -1,0 +1,16 @@
+﻿    .h1, .h2, .h3, h1, h2, h3 {
+        margin-top: 10px;
+       line-height: 10px;
+    }
+    .toast-hangman-game {
+        top: 375px;
+        left: 300px;
+    }
+
+    pre {
+        font-size: 19px;
+        font-weight: bold;
+    }
+    svg {
+        margin-bottom: -100px;
+    }

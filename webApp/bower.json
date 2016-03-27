@@ -1,0 +1,22 @@
+{
+  "name": "hangman",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.2",
+    "angular-nvd3": "^1.0.5",
+    "font-awesome": "font-awsome#^4.5.0"
+  }
+}
